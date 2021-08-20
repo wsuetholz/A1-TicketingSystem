@@ -1,0 +1,3 @@
+TicketID,Summary,Status,Priority,Submitter,Assigned,Watching
+1,This is a bug ticket,Open,High,Drew Kjell,Jane Doe,Drew Kjell|John Smith|Bill Jones
+2,A second problem was discovered,Open,Critical,John Smith,Bill Jones,Drew Kjell|Jane Doe
